@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt text](banner.png)
+[![EpickyHrac](banner.png)](https://epik.tk/?ref=github-repo-banner)
