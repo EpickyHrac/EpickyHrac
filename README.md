@@ -1,1 +1,1 @@
-[![EpickyHrac](EpickyHrac-banner.png)](https://epik.tk/?ref=github-repo-banner)
+[![EpickyHrac](https://link.epik.tk/f295acb9-0c85-4ac4-8dce-15af19e81012)](https://epik.tk/?ref=github-repo-banner)
